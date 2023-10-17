@@ -1,0 +1,16 @@
+.card--container {
+    height:220px;
+    width:200px;
+    border-radius: 10px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.play--text {
+    font-family: 'Arial';
+    font-weight: 400;
+    font-size: 15px;
+    float: right;
+    margin-top: 180px;
+    margin-right: 10px;
+    text-decoration: underline;
+    
+}
